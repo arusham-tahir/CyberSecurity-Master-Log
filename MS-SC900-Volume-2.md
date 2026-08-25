@@ -1,5 +1,7 @@
 📖 Chapter 2 — Identity & Access Management
+
 🔹 1. Identity
+
 📖 Definition
 
 An Identity is a digital representation of a user, device, or application that is used to verify who or what is requesting access.
@@ -21,10 +23,15 @@ An identity is a digital representation of a user, device, or application. It al
 Identity = Who are you?
 
 ⚡ Quick Revision
+
 Represents a user, device, or app
+
 Used before granting access
+
 Foundation of authentication
+
 🔹 2. Authentication
+
 📖 Definition
 
 Authentication is the process of verifying that a user or device is who they claim to be.
@@ -46,10 +53,15 @@ Authentication verifies the identity of a user or device before access is grante
 Authentication = Prove your identity
 
 ⚡ Quick Revision
+
 Verifies identity
+
 Happens before authorization
+
 Passwords, biometrics, OTP
+
 🔹 3. Multi-Factor Authentication (MFA)
+
 📖 Definition
 
 MFA requires two or more verification methods to confirm a user's identity.
@@ -71,10 +83,15 @@ Multi-Factor Authentication increases account security by requiring two or more 
 Two or More = MFA
 
 ⚡ Quick Revision
+
 Password + OTP
+
 Password + Fingerprint
+
 Stronger than password alone
+
 🔹 4. Passwordless Authentication
+
 📖 Definition
 
 Passwordless Authentication allows users to sign in without using a traditional password.
@@ -96,10 +113,15 @@ Passwordless authentication replaces passwords with secure methods such as biome
 No Password = Passwordless
 
 ⚡ Quick Revision
+
 Uses biometrics or security keys
+
 More secure
+
 Better user experience
+
 🔹 5. Authorization
+
 📖 Definition
 
 Authorization determines what actions or resources a verified user is allowed to access.
@@ -121,10 +143,15 @@ Authorization determines what an authenticated user is allowed to access or perf
 Authorization = What can you do?
 
 ⚡ Quick Revision
+
 Happens after authentication
+
 Controls permissions
+
 Based on roles or policies
+
 🔹 6. Microsoft Entra ID
+
 📖 Definition
 
 Microsoft Entra ID (formerly Azure Active Directory) is Microsoft's cloud-based identity and access management service.
@@ -146,10 +173,15 @@ Microsoft Entra ID is a cloud identity and access management solution that helps
 Entra ID = Identity Management
 
 ⚡ Quick Revision
+
 Cloud identity service
+
 Manages users
+
 Supports SSO & MFA
+
 🔹 7. Single Sign-On (SSO)
+
 📖 Definition
 
 Single Sign-On allows users to sign in once and access multiple applications without signing in again.
@@ -171,10 +203,15 @@ Single Sign-On allows users to authenticate once and securely access multiple ap
 One Login = Many Apps
 
 ⚡ Quick Revision
+
 One sign-in
+
 Multiple applications
+
 Better user experience
+
 🔹 8. Conditional Access
+
 📖 Definition
 
 Conditional Access applies security policies based on conditions such as user identity, device, location, or risk level.
@@ -196,11 +233,17 @@ Conditional Access uses predefined policies to make access decisions based on fa
 Right Person + Right Device + Right Conditions
 
 ⚡ Quick Revision
+
 Policy-based access
+
 Uses risk evaluation
+
 Can require MFA
+
 🔹 9. Role-Based Access Control (RBAC)
+
 📖 Definition
+
 
 RBAC assigns permissions based on a user's role within an organization.
 
@@ -221,10 +264,15 @@ Role-Based Access Control grants permissions according to a user's job role, ens
 Role Decides Permission
 
 ⚡ Quick Revision
+
 Permissions by role
+
 Easier management
+
 Supports least privilege
+
 🔹 10. Identity Protection
+
 📖 Definition
 
 Identity Protection helps detect, monitor, and respond to suspicious sign-in activities and identity-related risks.
@@ -246,9 +294,13 @@ Identity Protection identifies risky sign-in attempts and automatically applies 
 Detect → Protect → Respond
 
 ⚡ Quick Revision
+
 Detects risky logins
+
 Protects accounts
+
 Works with Conditional Access
+
 🚀 Chapter 2 — 5 Minute Rapid Revision
 
 ✅ Identity → Who are you?
