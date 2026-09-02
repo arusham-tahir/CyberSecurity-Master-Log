@@ -1,5 +1,7 @@
 📖 Volume 2 — Endpoint & Network Security
+
 🔹 6. Content Filters
+
 📖 Definition
 
 A content filter controls what types of online content users can access.
@@ -21,12 +23,19 @@ A content filter controls the online content that users can access. It can block
 Content Filter = Controls Accessible Web Content
 
 ⚡ Quick Revision
+
 Controls web content
+
 Blocks malicious websites
+
 Blocks dangerous downloads
+
 Can block specific categories
+
 Helps reduce security risks
+
 🔹 7. Secure Wi-Fi
+
 📖 Definition
 
 Secure Wi-Fi protects wireless networks from unauthorized access and security attacks.
@@ -48,12 +57,19 @@ Secure Wi-Fi protects wireless networks by using strong encryption, authenticati
 Secure Wi-Fi = Protected Wireless Access
 
 ⚡ Quick Revision
+
 Strong encryption
+
 Secure authentication
+
 Strong passwords
+
 Monitors unauthorized devices
+
 Protects wireless traffic
+
 🔹 8. Endpoint Hardening Techniques
+
 📖 Definition
 
 Endpoint hardening is the process of making devices more secure by reducing vulnerabilities and the attack surface.
@@ -75,13 +91,21 @@ Endpoint hardening improves device security by reducing vulnerabilities and unne
 Endpoint Hardening = Reduce Weaknesses
 
 ⚡ Quick Revision
+
 Install security updates
+
 Remove unnecessary software
+
 Disable unused services
+
 Use endpoint protection
+
 Apply strong security settings
+
 Use least privilege
+
 🔹 9. Endpoint Monitoring
+
 📖 Definition
 
 Endpoint monitoring continuously observes devices for suspicious activity, security events, and potential threats.
@@ -103,12 +127,19 @@ Endpoint monitoring continuously watches devices for suspicious activity and sec
 Endpoint Monitoring = Detect Suspicious Activity
 
 ⚡ Quick Revision
+
 Monitors endpoint devices
+
 Observes running processes
+
 Detects file changes
+
 Identifies suspicious behavior
+
 Detects malware activity
+
 Generates security alerts
+
 🧠 Don't Confuse
 
 Hardening → Prevents/reduces weaknesses
@@ -116,6 +147,7 @@ Hardening → Prevents/reduces weaknesses
 Monitoring → Detects suspicious activity
 
 🔹 10. SOAR — Security Orchestration, Automation, and Response
+
 📖 Definition
 
 SOAR (Security Orchestration, Automation, and Response) connects security tools and automates security operations and incident response.
@@ -137,11 +169,17 @@ SOAR stands for Security Orchestration, Automation, and Response. It connects di
 SOAR = Connect Tools + Automate Response
 
 ⚡ Quick Revision
+
 Collects security alerts
+
 Connects security tools
+
 Automates repetitive tasks
+
 Speeds up incident response
+
 Helps security teams manage incidents
+
 🧠 Don't Confuse
 
 SIEM → Detects & analyzes security events
