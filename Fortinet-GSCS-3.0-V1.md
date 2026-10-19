@@ -7,7 +7,7 @@
 
 📖 Definition
 
-A firwall is a security system that monitors and controls incoming and outgoing network traffic according to predefined security rules.
+A firewall is a security system that monitors and controls incoming and outgoing network traffic according to predefined security rules.
 
 🎯 Purpose
 
