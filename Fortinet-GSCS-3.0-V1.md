@@ -3,7 +3,7 @@
 
 📖 Volume 1 — Network, Web & Email Security
 
-🔹 1. Firewall
+🔹 1. Firwall
 
 📖 Definition
 
