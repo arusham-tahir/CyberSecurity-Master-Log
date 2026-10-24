@@ -1,4 +1,4 @@
-📖 Volume 2 — Endpoint & Network Security
+ 📖 Volume 2 — Endpoint & Network Security
 
 🔹 6. Content Filters
 
